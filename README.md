@@ -27,6 +27,10 @@
 - Edit, copy, and download results  
   
 ## Installation
+Set up Firebase for Google authentication and data storage:
+
+https://firebase.google.com/?gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPVBVbZvQYiMDDKcNDBrN31CqIm3O63UsQkzF0cBkMamW-ynHh2DBQaAiIaEALw_wcB&gclsrc=aw.ds
+
 Run the development server:
 
 ```bash

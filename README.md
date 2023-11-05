@@ -12,7 +12,6 @@
 - Vercel AI
 
 ## Description
-
 *User inputs their information, and the companies:*
 <img width="750" alt="image" src="https://github.com/ElizabethViolin/cover-letter-bro/assets/130325688/be451d22-ebdb-44c8-84fc-0e6cedf88222">
 
@@ -28,7 +27,6 @@
 - Edit, copy, and download results  
   
 ## Installation
-
 Run the development server:
 
 ```bash
@@ -37,31 +35,3 @@ npm i && npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## File structure
-```
-.
-├── app
-│   ├── components
-│   |   ├── ui
-│   |   │   ├── shadcn ui button.tsx
-│   |   │   ├── shadcn ui nav.tsx
-│   │   └── ...
-│   ├── ────  ...
-│   ├── layout.tsx
-│   └── page.tsx
-├── lib
-│   └── utils.ts
-├── styles
-│   └── globals.css
-├── next.config.js
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── 
-└── tsconfig.json
-```
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

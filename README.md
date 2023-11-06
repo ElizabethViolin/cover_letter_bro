@@ -3,7 +3,7 @@
 
 # 🚀AI cover letter generator website🚀
 
-## Our Package
+## Tech Stack
 - Next.js
 - React
 - Typescript
